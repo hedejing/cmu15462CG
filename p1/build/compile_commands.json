@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/hedejin/Homework/Graph/p1/build/application",
+  "command": "/usr/bin/c++    -I/home/hedejin/Homework/Graph/p1/src -I/usr/include/SDL    -Wall -Wextra -pedantic -o CMakeFiles/application.dir/application.cpp.o -c /home/hedejin/Homework/Graph/p1/src/application/application.cpp",
+  "file": "/home/hedejin/Homework/Graph/p1/src/application/application.cpp"
+},
+{
+  "directory": "/home/hedejin/Homework/Graph/p1/build/application",
+  "command": "/usr/bin/c++    -I/home/hedejin/Homework/Graph/p1/src -I/usr/include/SDL    -Wall -Wextra -pedantic -o CMakeFiles/application.dir/camera_roam.cpp.o -c /home/hedejin/Homework/Graph/p1/src/application/camera_roam.cpp",
+  "file": "/home/hedejin/Homework/Graph/p1/src/application/camera_roam.cpp"
+},
+{
+  "directory": "/home/hedejin/Homework/Graph/p1/build/application",
+  "command": "/usr/bin/c++    -I/home/hedejin/Homework/Graph/p1/src -I/usr/include/SDL    -Wall -Wextra -pedantic -o CMakeFiles/application.dir/imageio.cpp.o -c /home/hedejin/Homework/Graph/p1/src/application/imageio.cpp",
+  "file": "/home/hedejin/Homework/Graph/p1/src/application/imageio.cpp"
+},
+{
+  "directory": "/home/hedejin/Homework/Graph/p1/build/math",
+  "command": "/usr/bin/c++    -I/home/hedejin/Homework/Graph/p1/src    -Wall -Wextra -pedantic -o CMakeFiles/math.dir/camera.cpp.o -c /home/hedejin/Homework/Graph/p1/src/math/camera.cpp",
+  "file": "/home/hedejin/Homework/Graph/p1/src/math/camera.cpp"
+},
+{
+  "directory": "/home/hedejin/Homework/Graph/p1/build/math",
+  "command": "/usr/bin/c++    -I/home/hedejin/Homework/Graph/p1/src    -Wall -Wextra -pedantic -o CMakeFiles/math.dir/color.cpp.o -c /home/hedejin/Homework/Graph/p1/src/math/color.cpp",
+  "file": "/home/hedejin/Homework/Graph/p1/src/math/color.cpp"
+},
+{
+  "directory": "/home/hedejin/Homework/Graph/p1/build/math",
+  "command": "/usr/bin/c++    -I/home/hedejin/Homework/Graph/p1/src    -Wall -Wextra -pedantic -o CMakeFiles/math.dir/matrix.cpp.o -c /home/hedejin/Homework/Graph/p1/src/math/matrix.cpp",
+  "file": "/home/hedejin/Homework/Graph/p1/src/math/matrix.cpp"
+},
+{
+  "directory": "/home/hedejin/Homework/Graph/p1/build/math",
+  "command": "/usr/bin/c++    -I/home/hedejin/Homework/Graph/p1/src    -Wall -Wextra -pedantic -o CMakeFiles/math.dir/quaternion.cpp.o -c /home/hedejin/Homework/Graph/p1/src/math/quaternion.cpp",
+  "file": "/home/hedejin/Homework/Graph/p1/src/math/quaternion.cpp"
+},
+{
+  "directory": "/home/hedejin/Homework/Graph/p1/build/math",
+  "command": "/usr/bin/c++    -I/home/hedejin/Homework/Graph/p1/src    -Wall -Wextra -pedantic -o CMakeFiles/math.dir/vector.cpp.o -c /home/hedejin/Homework/Graph/p1/src/math/vector.cpp",
+  "file": "/home/hedejin/Homework/Graph/p1/src/math/vector.cpp"
+},
+{
+  "directory": "/home/hedejin/Homework/Graph/p1/build/p1",
+  "command": "/usr/bin/c++    -I/home/hedejin/Homework/Graph/p1/src -I/usr/include/SDL    -Wall -Wextra -pedantic -o CMakeFiles/p1.dir/main.cpp.o -c /home/hedejin/Homework/Graph/p1/src/p1/main.cpp",
+  "file": "/home/hedejin/Homework/Graph/p1/src/p1/main.cpp"
+},
+{
+  "directory": "/home/hedejin/Homework/Graph/p1/build/p1",
+  "command": "/usr/bin/c++    -I/home/hedejin/Homework/Graph/p1/src -I/usr/include/SDL    -Wall -Wextra -pedantic -o CMakeFiles/p1.dir/project.cpp.o -c /home/hedejin/Homework/Graph/p1/src/p1/project.cpp",
+  "file": "/home/hedejin/Homework/Graph/p1/src/p1/project.cpp"
+},
+{
+  "directory": "/home/hedejin/Homework/Graph/p1/build/scene",
+  "command": "/usr/bin/c++    -I/home/hedejin/Homework/Graph/p1/src    -Wall -Wextra -pedantic -o CMakeFiles/scene.dir/mesh.cpp.o -c /home/hedejin/Homework/Graph/p1/src/scene/mesh.cpp",
+  "file": "/home/hedejin/Homework/Graph/p1/src/scene/mesh.cpp"
+},
+{
+  "directory": "/home/hedejin/Homework/Graph/p1/build/scene",
+  "command": "/usr/bin/c++    -I/home/hedejin/Homework/Graph/p1/src    -Wall -Wextra -pedantic -o CMakeFiles/scene.dir/heightmap.cpp.o -c /home/hedejin/Homework/Graph/p1/src/scene/heightmap.cpp",
+  "file": "/home/hedejin/Homework/Graph/p1/src/scene/heightmap.cpp"
+}
+]

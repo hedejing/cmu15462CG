@@ -1,0 +1,2 @@
+/usr/bin/ar cr libscene.a  CMakeFiles/scene.dir/mesh.cpp.o CMakeFiles/scene.dir/heightmap.cpp.o
+/usr/bin/ranlib libscene.a

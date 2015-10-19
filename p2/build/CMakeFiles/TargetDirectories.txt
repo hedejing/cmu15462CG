@@ -1,0 +1,5 @@
+/home/hedejin/Homework/Graph/p2/build/application/CMakeFiles/application.dir
+/home/hedejin/Homework/Graph/p2/build/math/CMakeFiles/math.dir
+/home/hedejin/Homework/Graph/p2/build/p2/CMakeFiles/p2.dir
+/home/hedejin/Homework/Graph/p2/build/scene/CMakeFiles/scene.dir
+/home/hedejin/Homework/Graph/p2/build/tinyxml/CMakeFiles/tinyxml.dir

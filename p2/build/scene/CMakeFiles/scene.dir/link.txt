@@ -1,0 +1,2 @@
+/usr/bin/ar cr libscene.a  CMakeFiles/scene.dir/material.cpp.o CMakeFiles/scene.dir/mesh.cpp.o CMakeFiles/scene.dir/model.cpp.o CMakeFiles/scene.dir/scene.cpp.o CMakeFiles/scene.dir/sphere.cpp.o CMakeFiles/scene.dir/triangle.cpp.o CMakeFiles/scene.dir/subdivide.cpp.o
+/usr/bin/ranlib libscene.a

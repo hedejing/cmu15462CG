@@ -1,0 +1,2 @@
+/usr/bin/ar cr libapplication.a  CMakeFiles/application.dir/application.cpp.o CMakeFiles/application.dir/camera_roam.cpp.o CMakeFiles/application.dir/imageio.cpp.o CMakeFiles/application.dir/scene_loader.cpp.o
+/usr/bin/ranlib libapplication.a

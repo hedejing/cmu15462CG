@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/p1.dir/main.cpp.o CMakeFiles/p1.dir/project.cpp.o  -o p1 -rdynamic ../math/libmath.a ../application/libapplication.a ../scene/libscene.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lpng -lz -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi -lGLEW 

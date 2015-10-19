@@ -1,0 +1,4 @@
+/home/hedejin/Homework/Graph/p1/build/application/CMakeFiles/application.dir
+/home/hedejin/Homework/Graph/p1/build/math/CMakeFiles/math.dir
+/home/hedejin/Homework/Graph/p1/build/p1/CMakeFiles/p1.dir
+/home/hedejin/Homework/Graph/p1/build/scene/CMakeFiles/scene.dir

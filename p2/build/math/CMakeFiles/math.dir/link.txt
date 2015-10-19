@@ -1,0 +1,2 @@
+/usr/bin/ar cr libmath.a  CMakeFiles/math.dir/camera.cpp.o CMakeFiles/math.dir/color.cpp.o CMakeFiles/math.dir/math.cpp.o CMakeFiles/math.dir/matrix.cpp.o CMakeFiles/math.dir/quaternion.cpp.o CMakeFiles/math.dir/vector.cpp.o
+/usr/bin/ranlib libmath.a
